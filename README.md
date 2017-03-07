@@ -9,6 +9,7 @@ Jupyter notebooks for various online tutorials and books
 
 1. Python for Data Analysis
 2. Learning Spark
+3. Advanced Analytics with Spark
 
 ## License
 [The MIT License (MIT)](LICENSE)
